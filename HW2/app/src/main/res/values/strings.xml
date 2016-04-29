@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string-array name="menu">
+        <item>Time-Table Activity</item>
+        <item>Tip-Calculation Activity</item>
+        <item>Calculator Activity</item>
+        <item>Change password</item>
+    </string-array>
+</resources>
